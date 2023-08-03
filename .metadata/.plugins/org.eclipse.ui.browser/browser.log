@@ -1,0 +1,73 @@
+
+Apr 18, 2023 21:29:20.529 NEW SESSION
+Apr 18, 2023 21:29:20.530 [8344:21416:0418/212920.527:ERROR:device_event_log_impl.cc(222)] [21:29:20.527] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:29:20.530 [8344:21416:0418/212920.528:ERROR:device_event_log_impl.cc(222)] [21:29:20.528] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:29:20.942 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:36:30.705 [18572:2248:0418/213630.705:ERROR:device_event_log_impl.cc(222)] [21:36:30.705] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:36:30.706 [18572:2248:0418/213630.705:ERROR:device_event_log_impl.cc(222)] [21:36:30.705] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:36:31.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:44:58.708 [14020:9772:0418/214458.707:ERROR:device_event_log_impl.cc(222)] [21:44:58.707] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:44:58.709 [14020:9772:0418/214458.708:ERROR:device_event_log_impl.cc(222)] [21:44:58.707] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:44:59.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:45:25.340 [14992:17592:0418/214525.340:ERROR:device_event_log_impl.cc(222)] [21:45:25.340] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:45:25.341 [14992:17592:0418/214525.341:ERROR:device_event_log_impl.cc(222)] [21:45:25.341] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:45:25.569 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:45:42.650 [21956:22268:0418/214542.650:ERROR:device_event_log_impl.cc(222)] [21:45:42.650] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:45:42.652 [21956:22268:0418/214542.650:ERROR:device_event_log_impl.cc(222)] [21:45:42.651] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:45:43.141 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:46:31.474 [6376:1316:0418/214631.473:ERROR:device_event_log_impl.cc(222)] [21:46:31.473] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:46:31.474 [6376:1316:0418/214631.474:ERROR:device_event_log_impl.cc(222)] [21:46:31.474] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:46:31.767 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:49:22.839 [1704:16924:0418/214922.839:ERROR:device_event_log_impl.cc(222)] [21:49:22.839] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:49:22.842 [1704:16924:0418/214922.842:ERROR:device_event_log_impl.cc(222)] [21:49:22.842] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:49:23.491 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 21:56:44.250 [21668:15796:0418/215644.249:ERROR:device_event_log_impl.cc(222)] [21:56:44.249] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 21:56:44.250 [21668:15796:0418/215644.250:ERROR:device_event_log_impl.cc(222)] [21:56:44.249] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 21:56:44.607 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:01:03.918 [20812:3472:0418/220103.917:ERROR:device_event_log_impl.cc(222)] [22:01:03.917] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:01:03.918 [20812:3472:0418/220103.918:ERROR:device_event_log_impl.cc(222)] [22:01:03.917] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:01:04.245 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:01:29.881 [4416:23404:0418/220129.881:ERROR:device_event_log_impl.cc(222)] [22:01:29.881] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:01:29.882 [4416:23404:0418/220129.882:ERROR:device_event_log_impl.cc(222)] [22:01:29.882] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:01:30.199 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:05:44.858 [11700:9416:0418/220544.857:ERROR:device_event_log_impl.cc(222)] [22:05:44.857] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:05:44.858 [11700:9416:0418/220544.858:ERROR:device_event_log_impl.cc(222)] [22:05:44.858] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:05:45.151 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:07:23.219 [304:18064:0418/220723.218:ERROR:device_event_log_impl.cc(222)] [22:07:23.218] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:07:23.219 [304:18064:0418/220723.219:ERROR:device_event_log_impl.cc(222)] [22:07:23.219] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:07:23.482 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:10:24.872 [14868:23488:0418/221024.872:ERROR:device_event_log_impl.cc(222)] [22:10:24.872] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:10:24.872 [14868:23488:0418/221024.872:ERROR:device_event_log_impl.cc(222)] [22:10:24.872] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:10:25.168 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:14:16.238 [19248:21664:0418/221416.238:ERROR:device_event_log_impl.cc(222)] [22:14:16.238] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:14:16.239 [19248:21664:0418/221416.239:ERROR:device_event_log_impl.cc(222)] [22:14:16.239] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:14:16.555 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:14:56.393 [21924:4036:0418/221456.393:ERROR:device_event_log_impl.cc(222)] [22:14:56.392] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:14:56.394 [21924:4036:0418/221456.393:ERROR:device_event_log_impl.cc(222)] [22:14:56.393] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:14:56.507 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:17:19.272 [15796:18452:0418/221719.272:ERROR:device_event_log_impl.cc(222)] [22:17:19.271] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:17:19.272 [15796:18452:0418/221719.272:ERROR:device_event_log_impl.cc(222)] [22:17:19.272] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:17:19.544 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:18:30.379 [19692:19572:0418/221830.379:ERROR:device_event_log_impl.cc(222)] [22:18:30.379] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:18:30.380 [19692:19572:0418/221830.379:ERROR:device_event_log_impl.cc(222)] [22:18:30.379] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:18:30.670 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:19:49.768 [12792:10968:0418/221949.768:ERROR:device_event_log_impl.cc(222)] [22:19:49.767] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:19:49.769 [12792:10968:0418/221949.769:ERROR:device_event_log_impl.cc(222)] [22:19:49.768] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:19:50.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:22:54.39 [21724:11616:0418/222254.038:ERROR:device_event_log_impl.cc(222)] [22:22:54.037] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:22:54.40 [21724:11616:0418/222254.040:ERROR:device_event_log_impl.cc(222)] [22:22:54.040] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:22:54.702 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:23:20.914 [1996:9048:0418/222320.914:ERROR:device_event_log_impl.cc(222)] [22:23:20.913] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:23:20.915 [1996:9048:0418/222320.915:ERROR:device_event_log_impl.cc(222)] [22:23:20.914] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:23:21.197 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 22:26:52.503 [23520:14012:0418/222652.503:ERROR:device_event_log_impl.cc(222)] [22:26:52.502] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 18, 2023 22:26:52.504 [23520:14012:0418/222652.504:ERROR:device_event_log_impl.cc(222)] [22:26:52.503] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 22:26:52.764 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 20, 2023 16:03:03.640 NEW SESSION
+Apr 20, 2023 16:03:03.640 [21580:23060:0420/160303.636:ERROR:device_event_log_impl.cc(222)] [16:03:03.634] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 20, 2023 16:03:03.642 [21580:23060:0420/160303.640:ERROR:device_event_log_impl.cc(222)] [16:03:03.640] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 16:03:05.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 16:22:25.652 [17092:22496:0420/162225.651:ERROR:device_event_log_impl.cc(222)] [16:22:25.649] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 20, 2023 16:22:25.655 [17092:22496:0420/162225.655:ERROR:device_event_log_impl.cc(222)] [16:22:25.655] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 16:22:26.863 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
